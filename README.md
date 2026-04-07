@@ -20,4 +20,4 @@ Achieved measurable retrieval precision improvements over baseline keyword searc
 - Full methodology documented for reproducibility
 
 ## Report
-Full project report available: [project-report.docx](./project-report.docx)
+Full project report available: [rag-project-report.pdf](./rag%20project%20report.pdf)
