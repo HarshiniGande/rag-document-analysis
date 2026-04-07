@@ -18,3 +18,6 @@ Achieved measurable retrieval precision improvements over baseline keyword searc
 - Chose dense retrieval over BM25 for semantic coverage on domain-specific language
 - Modular pipeline design allows swapping embedding models and LLM backends independently
 - Full methodology documented for reproducibility
+
+## Report
+Full project report available: [project-report.docx](./project-report.docx)
